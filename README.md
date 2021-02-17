@@ -27,7 +27,8 @@ Thank you for having taken development training with me. In order to make this c
 
 <!-- Named Links--->
 [d1v]: https://creatio-global.zoom.us/rec/share/3TVEa7VjKqz2ZqC-ebUSx3vaDNPwhVN0Go7-_mrnM3bkLOGK8SZYrOMFuw-4dj62.k8AMbU9Q63MjSrKm?startTime=1610982009000
-[d2v]: https://
+[d2v]: https://creatio-global.zoom.us/rec/share/ucKfKQIDmM7ZrjPDaYM6P1uMr12ftCriiQ7HP7R_so5BrOlkYOQA_ouZVxTMVfs6.TO-CzfJUr2LLUw0r
+
 
 
 [feedback]:https://forms.office.com/Pages/ResponsePage.aspx?id=-6Jce0OmhUOLOTaTQnDHFs1n4KjdfnVBtjvFqBN3Vk9UNjRZQVFRQ0E1UDBLMERaMlZUMFVYNzlKTy4u
