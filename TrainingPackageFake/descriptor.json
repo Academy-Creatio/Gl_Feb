@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "d5782cd1-3a57-f097-22b6-50d83f95cf84",
+    "Name": "TrainingPackageFake",
+    "ModifiedOnUtc": "\/Date(1613490357000)\/",
+    "Maintainer": "Customer",
+    "Description": "This is my first package",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

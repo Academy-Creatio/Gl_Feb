@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_ContactSaving.Caption" Value="Contact Saving" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_ContactValidating.Caption" Value="Contact Validating" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess4_b07675a877394c5498986744f67456f8.Caption" Value="Contact Updating" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage_ContactSaving.Caption" Value="Contact Saving" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage4_86f72c4e1cdb48658f39f63c04bc9ed6.Caption" Value="Contact Updating" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage5_dc4dddf0bd7f4b5d9bc2e4e433c33a9d.Caption" Value="ContactValidating" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_437d1396eadf42c4a9da958d1dc35700.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_437d1396eadf42c4a9da958d1dc35700.Lanes.Lane_d8c4d00f3e2044c98c7d90154f363654.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>
