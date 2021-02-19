@@ -30,11 +30,6 @@ Thank you for having taken development training with me. In order to make this c
 <<<<<<< HEAD
 [d2v]: https://creatio-global.zoom.us/rec/share/No2FfSsqj4nLDEqNPEIm1sRJKgk6cL7n-ySHPXEKytzHgAUE0hCVTQlRGkwUz0do.I0g1zXzHriLjHJ8x?startTime=1613574087000
 [d3v]: https://creatio-global.zoom.us/rec/share/DBLTpqBMRFzgqSToda42Rb4RL2tFNF4oObdbAJkP4w_r77iwrJCmeKBVNDuo4dQw.TDS1517UkxafN38K?startTime=1613660470000
-=======
-[d2v]: https://creatio-global.zoom.us/rec/share/ucKfKQIDmM7ZrjPDaYM6P1uMr12ftCriiQ7HP7R_so5BrOlkYOQA_ouZVxTMVfs6.TO-CzfJUr2LLUw0r
-
-
->>>>>>> aeec5f8b1be605ae9b4fb895439f61537a3c085a
 
 [feedback]:https://forms.office.com/Pages/ResponsePage.aspx?id=-6Jce0OmhUOLOTaTQnDHFs1n4KjdfnVBtjvFqBN3Vk9UNjRZQVFRQ0E1UDBLMERaMlZUMFVYNzlKTy4u
 
