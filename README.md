@@ -6,8 +6,8 @@
 |:--:|:----------: |
 |1|[Video][d1v]||
 |2|[Video][d2v]||
+|3|[Video][d3v]||
 <!--
-|3|[Video][d3v]|[Chat][d3c]|
 |4|[Video][d4v]||
 |5|[Video][d5v]|[Chat][d5c]|
 |6|[Video][d6v]||
@@ -27,8 +27,8 @@ Thank you for having taken development training with me. In order to make this c
 
 <!-- Named Links--->
 [d1v]: https://creatio-global.zoom.us/rec/share/3TVEa7VjKqz2ZqC-ebUSx3vaDNPwhVN0Go7-_mrnM3bkLOGK8SZYrOMFuw-4dj62.k8AMbU9Q63MjSrKm?startTime=1610982009000
-[d2v]: https://
-
+[d2v]: https://creatio-global.zoom.us/rec/share/No2FfSsqj4nLDEqNPEIm1sRJKgk6cL7n-ySHPXEKytzHgAUE0hCVTQlRGkwUz0do.I0g1zXzHriLjHJ8x?startTime=1613574087000
+[d3v]: https://creatio-global.zoom.us/rec/share/DBLTpqBMRFzgqSToda42Rb4RL2tFNF4oObdbAJkP4w_r77iwrJCmeKBVNDuo4dQw.TDS1517UkxafN38K?startTime=1613660470000
 
 [feedback]:https://forms.office.com/Pages/ResponsePage.aspx?id=-6Jce0OmhUOLOTaTQnDHFs1n4KjdfnVBtjvFqBN3Vk9UNjRZQVFRQ0E1UDBLMERaMlZUMFVYNzlKTy4u
 
