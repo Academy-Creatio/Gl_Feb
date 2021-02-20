@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#on after Modified.Unique identifier of record#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Contact" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="on after Modified" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="BaseElements.UserTask1.Caption" Value="Custom Validation" />
+			<Item Name="BaseElements.UserTask1.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.UserTask1.Parameters.Contact.DisplayValue" Value="[#on after Modified.Unique identifier of record#]" />
+			<Item Name="BaseElements.UserTask1.Parameters.Result.Caption" Value="Result" />
+			<Item Name="Caption" Value="Contact Custom Validation" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

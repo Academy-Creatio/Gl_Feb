@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bd1219ff-c88a-aeb5-98cd-b615e938b55d",
+    "Name": "CustomValidation",
+    "ModifiedOnUtc": "\/Date(1613752800000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "CustomValidation",
+    "DependsOn": []
+  }
+}

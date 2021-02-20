@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f87087d-5bc4-4255-ae79-7bb03ac1704c",
+    "Name": "Process_ClioFunctions",
+    "ModifiedOnUtc": "\/Date(1613749257000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Call functions from Clio"
+  }
+}
