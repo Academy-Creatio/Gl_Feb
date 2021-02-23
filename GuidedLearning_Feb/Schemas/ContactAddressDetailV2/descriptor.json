@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b63a0ec5-07cb-44e3-bb8d-6d0066f10f09",
+    "Name": "ContactAddressDetailV2",
+    "ModifiedOnUtc": "\/Date(1614097829000)\/",
+    "Parent": {
+      "UId": "e11ebfda-be27-4b0f-b01c-7a82a244b00e",
+      "Name": "ContactAddressDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Contact addresses\""
+  }
+}

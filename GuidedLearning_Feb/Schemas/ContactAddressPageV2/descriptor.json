@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6b4f98bd-b7b3-4da6-9c48-96c438cb2fce",
+    "Name": "ContactAddressPageV2",
+    "ModifiedOnUtc": "\/Date(1614097827000)\/",
+    "Parent": {
+      "UId": "2149f737-09ae-4fba-845f-81c480709e06",
+      "Name": "ContactAddressPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contact address page"
+  }
+}
