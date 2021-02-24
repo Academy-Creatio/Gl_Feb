@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="Повідомлення користувачу 1" />
 			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Ступінь наповненості даними профілю. Натисніть на шкалу, щоб подивитися, яких даних не вистачає в профілі." />
 			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Повнота профілю" />
 			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="Знайдено дані" />
